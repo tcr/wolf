@@ -1,12 +1,12 @@
 {
   "name": "wolf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Run wolfram alpha queries from the command line.",
   "bin": "wolf.js",
   "dependencies": {
     "colors": "~0.6.0-1",
     "libxmljs": "~0.6.1",
-    "rem": "~0.5.1"
+    "rem": "~0.5.2"
   },
   "preferGlobal": true,
   "repository": "https://github.com/timcameronryan/wolf",
