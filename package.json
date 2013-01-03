@@ -1,6 +1,6 @@
 {
   "name": "wolf",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Run wolfram alpha queries from the command line.",
   "bin": "wolf.js",
   "dependencies": {
